@@ -1,11 +1,11 @@
 <?php
 
-namespace Recca0120\Upload\Tests;
+namespace Yaojinhui1993\Upload\Tests;
 
 use Mockery as m;
 use org\bovigo\vfs\vfsStream;
 use PHPUnit\Framework\TestCase;
-use Recca0120\Upload\Filesystem;
+use Yaojinhui1993\Upload\Filesystem;
 use org\bovigo\vfs\content\LargeFileContent;
 
 class FilesystemTest extends TestCase

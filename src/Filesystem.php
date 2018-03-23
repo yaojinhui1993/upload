@@ -1,8 +1,8 @@
 <?php
 
-namespace Recca0120\Upload;
+namespace Yaojinhui1993\Upload;
 
-use Recca0120\Upload\Exceptions\ResourceOpenException;
+use Yaojinhui1993\Upload\Exceptions\ResourceOpenException;
 use Illuminate\Filesystem\Filesystem as IlluminateFilesystem;
 
 class Filesystem extends IlluminateFilesystem

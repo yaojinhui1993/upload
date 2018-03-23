@@ -62,7 +62,7 @@ Controller
 ```php
 
 use Illuminate\Http\JsonResponse;
-use Recca0120\Upload\UploadManager;
+use Yaojinhui1993\Upload\UploadManager;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 
 class UploadController extends Controller
@@ -103,7 +103,7 @@ class UploadController extends Controller
 ## Factory
 
 ```php
-use Recca0120\Upload\Receiver;
+use Yaojinhui1993\Upload\Receiver;
 use Illuminate\Http\JsonResponse;
 
 require __DIR__.'/vendor/autoload.php';
@@ -126,9 +126,9 @@ Receiver::factory($config, $api)->receive($inputName)->send();
 
 ```php
 
-use Recca0120\Upload\Receiver;
-use Recca0120\Upload\FileAPI;
-use Recca0120\Upload\Plupload;
+use Yaojinhui1993\Upload\Receiver;
+use Yaojinhui1993\Upload\FileAPI;
+use Yaojinhui1993\Upload\Plupload;
 use Illuminate\Http\JsonResponse;
 
 require __DIR__.'/vendor/autoload.php';

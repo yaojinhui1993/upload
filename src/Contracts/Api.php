@@ -1,6 +1,6 @@
 <?php
 
-namespace Recca0120\Upload\Contracts;
+namespace Yaojinhui1993\Upload\Contracts;
 
 use Illuminate\Http\JsonResponse;
 use Symfony\Component\HttpFoundation\File\UploadedFile;

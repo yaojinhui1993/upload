@@ -1,10 +1,10 @@
 <?php
 
-namespace Recca0120\Upload\Tests;
+namespace Yaojinhui1993\Upload\Tests;
 
 use Mockery as m;
 use PHPUnit\Framework\TestCase;
-use Recca0120\Upload\UploadManager;
+use Yaojinhui1993\Upload\UploadManager;
 
 class UploadManagerTest extends TestCase
 {

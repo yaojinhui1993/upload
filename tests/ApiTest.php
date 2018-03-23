@@ -1,10 +1,10 @@
 <?php
 
-namespace Recca0120\Upload\Tests;
+namespace Yaojinhui1993\Upload\Tests;
 
 use Mockery as m;
 use PHPUnit\Framework\TestCase;
-use Recca0120\Upload\Api as ApiBase;
+use Yaojinhui1993\Upload\Api as ApiBase;
 
 class ApiTest extends TestCase
 {

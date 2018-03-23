@@ -1,12 +1,12 @@
 <?php
 
-namespace Recca0120\Upload\Tests;
+namespace Yaojinhui1993\Upload\Tests;
 
 use Exception;
 use Mockery as m;
 use PHPUnit\Framework\TestCase;
-use Recca0120\Upload\ChunkFile;
-use Recca0120\Upload\Exceptions\ChunkedResponseException;
+use Yaojinhui1993\Upload\ChunkFile;
+use Yaojinhui1993\Upload\Exceptions\ChunkedResponseException;
 
 class ChunkFileTest extends TestCase
 {

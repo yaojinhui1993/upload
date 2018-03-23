@@ -1,6 +1,6 @@
 <?php
 
-namespace Recca0120\Upload;
+namespace Yaojinhui1993\Upload;
 
 class FileAPI extends Api
 {

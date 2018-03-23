@@ -1,12 +1,12 @@
 <?php
 
-namespace Recca0120\Upload\Tests;
+namespace Yaojinhui1993\Upload\Tests;
 
 use Mockery as m;
-use Recca0120\Upload\Receiver;
+use Yaojinhui1993\Upload\Receiver;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
-use Recca0120\Upload\Exceptions\ChunkedResponseException;
+use Yaojinhui1993\Upload\Exceptions\ChunkedResponseException;
 
 class ReceiverTest extends TestCase
 {

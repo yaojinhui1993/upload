@@ -1,8 +1,8 @@
 <?php
 
-namespace Recca0120\Upload;
+namespace Yaojinhui1993\Upload;
 
-use Recca0120\Upload\Exceptions\ChunkedResponseException;
+use Yaojinhui1993\Upload\Exceptions\ChunkedResponseException;
 
 class ChunkFile
 {

@@ -1,10 +1,10 @@
 <?php
 
-use Recca0120\Upload\FileAPI;
-use Recca0120\Upload\Dropzone;
-use Recca0120\Upload\Plupload;
-use Recca0120\Upload\Receiver;
-use Recca0120\Upload\FineUploader;
+use Yaojinhui1993\Upload\FileAPI;
+use Yaojinhui1993\Upload\Dropzone;
+use Yaojinhui1993\Upload\Plupload;
+use Yaojinhui1993\Upload\Receiver;
+use Yaojinhui1993\Upload\FineUploader;
 
 include __DIR__.'/vendor/autoload.php';
 

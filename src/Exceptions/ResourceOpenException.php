@@ -1,6 +1,6 @@
 <?php
 
-namespace Recca0120\Upload\Exceptions;
+namespace Yaojinhui1993\Upload\Exceptions;
 
 use Exception;
 

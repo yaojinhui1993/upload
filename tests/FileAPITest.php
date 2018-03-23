@@ -1,9 +1,9 @@
 <?php
 
-namespace Recca0120\Upload\Tests;
+namespace Yaojinhui1993\Upload\Tests;
 
 use Mockery as m;
-use Recca0120\Upload\FileAPI;
+use Yaojinhui1993\Upload\FileAPI;
 use PHPUnit\Framework\TestCase;
 
 class FileAPITest extends TestCase
