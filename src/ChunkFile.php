@@ -73,9 +73,6 @@ class ChunkFile
      */
     public function __construct($name, $chunkPath, $storagePath, $token = null, Filesystem $files = null)
     {
-        if ($files) {
-            $this->mimeType = $this->files->mimeType($this->name);
-        }
         $this->files = $files ?: new Filesystem();
         $this->name = $name;
         $this->chunkPath = $chunkPath;
